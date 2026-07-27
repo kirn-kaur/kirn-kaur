@@ -10,6 +10,7 @@
 ### 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mongodb,express,js,html,css,git,github,vscode)](https://skillicons.dev)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 
 ---
